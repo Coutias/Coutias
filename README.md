@@ -1,4 +1,4 @@
-Bem-vindo ao meu GitHub! 👋
+Bem-vindo ao meu GitHub! 👋.
 
 ⚡ Um Pouco Sobre Mim:
 Técnico em informática desde os 9 anos (Sim, era um mini-hacker 👶💻).
