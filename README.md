@@ -2,7 +2,7 @@ Bem-vindo ao meu GitHub! 👋.
 
 ⚡ Um Pouco Sobre Mim:
 Técnico em informática desde os 9 anos (Sim, era um mini-hacker 👶💻).
-Comecei a trabalhar numa lan house aos 10 anos. Foi aí que me tornei o rei do Grand Chase, The sims, e pinava mt no CS kk, e do claro que eu consertava também rs 🕹️🔧.
+Comecei a trabalhar numa lan house aos 10 anos. Foi aí que me tornei o rei do Grand Chase, The Sims 2, Age of Empires 2, e pinava mt no CS kk, e claro que eu consertava também rs 🕹️🔧.
 Com 13 anos, mergulhei na eletrônica e fiquei até os 18, consertando tudo... Até aqueles tablet's, notebook's e pc's que ninguém acreditava que tinham solução 📺🔨.
 Aos 18, abri minha própria loja 🎉! Mas... Aí conheci o FiveM e fiquei obcecado com os scripts. Foi um caminho sem volta...
 
