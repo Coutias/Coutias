@@ -59,6 +59,10 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
 - [ ] **C# Sistema Financeiro Access** - *Hugo Cursos* 
 - [ ] **C# Cursos Diversos** [*Pasta Com 8 Aulas Aleatórias*] 
 
+💻 **Redes Sociais**
+[YouTube] (https://www.youtube.com/@Coutias)
+[Instagram] (https://www.instagram/lilcoutias)
+[GitHub] (https://github.com/coutias)
 
 📫 **Quer falar comigo**?
 *Seja por curiosidade ou pra trocar ideia sobre C#, só mandar mensagem!*
