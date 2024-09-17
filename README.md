@@ -24,7 +24,7 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
 - **C#**
   - ( *Atualmente me viciando nisso* )
 - **Python**
-  -( *Relacionamento de amor e ódio* )
+  - ( *Relacionamento de amor e ódio* )
 - **Lua**
   - ( *Só sei fazer gambiarra pra tentar arrumar outra gambiarra* )
 - **PHP**
