@@ -35,8 +35,12 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
   - ( *Gastei umas boas noites de sono nisso* )
 
 #### 🏆 **Cursos/Treinamentos**:
-- [x] **Inglês Básico** ✔️
+- [x] **Inglês Básico** - *On-line* ✔️
+- [x] **Técnico de Manutenção em Micro** - *Conder* ✔️
+- [x] **Informática Básica** - *Conder* ✔️
+- [x] **Gerenciamento de Micro-Empresas** - *Conder* ✔️
 - [x] **Python** - *Curso em Vídeo* ✔️ *[Mundo 1, 2 e 3]*
+- [x] **Técnico em Administração** - *Governo* ✔️ [4 Meses *Desistente*]
 - [x] **C#** - *CFB Cursos* ✔️
 - [x] **Git & GitHub** - *Curso em Vídeo* ✔️
 - [ ] **SQL** - *CFB Cursos* 
