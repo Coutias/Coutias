@@ -35,6 +35,7 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
   - ( *Gastei umas boas noites de sono nisso* )
 
 #### 🏆 **Cursos/Treinamentos**:
+- [x] **Culinária** - *Conder* ["Reaproveitamento" de Comidas] ✔️
 - [x] **Inglês Básico** - *On-line* ✔️
 - [x] **Técnico de Manutenção em Micro** - *Conder* ✔️
 - [x] **Informática Básica** - *Conder* ✔️
