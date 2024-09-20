@@ -46,7 +46,7 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
 - [x] **C#** - *CFB Cursos* +2023 Minutos ✔️
 - [x] **Git & GitHub** - *Curso em Vídeo* +240 Minutos ✔️
 - [ ] **SQL + MYSQL** - *CFB Cursos* +509 Minutos
-- [ ] **MYSQL** - *Curso em Vídeo* +2400 Minutos
+- [ ] **MYSQL** - *Curso em Vídeo* +463 Minutos
 - [ ] **C# Avançado** - *Q Cursos* +95 Minutos
 - [ ] **C# BackEnd** - *Q Cursos* +55 Minutos
 - [ ] **C# Algoritmo** - *Tarso Coelho* +239 Minutos
