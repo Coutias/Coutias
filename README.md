@@ -41,7 +41,7 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
 - [x] **Informática Básica** - *Conder* +7200 Minutos ✔️
 - [x] **Gerenciamento de Micro-Empresas** - *Conder* +1800 Minutos ✔️
 - [x] **Python** - *Curso em Vídeo* +7200 Minutos ✔️ *[Mundo 1, 2 e 3]*
-- [x] **Técnico em Administração** - *Governo* +10.800 Minutos ✔️ [4 Meses *Desistente*]
+- [x] **Técnico em Administração** - *Governo* +10.800 Minutos ✔️ [*Desistente*]
 - [x] **Operador de Máquinas Pesadas** - *Governo* +2400 Minutos ✔️
 - [x] **C#** - *CFB Cursos* +2023 Minutos ✔️
 - [x] **Git & GitHub** - *Curso em Vídeo* +240 Minutos ✔️
