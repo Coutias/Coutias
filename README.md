@@ -35,35 +35,35 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
   - ( *Gastei umas boas noites de sono nisso* )
 
 #### 🏆 **Cursos/Treinamentos**:
-- [x] **Culinária** - *Conder* ["Reaproveitamento" de Comidas] ✔️
-- [x] **Inglês Básico** - *On-line* ✔️
-- [x] **Técnico de Manutenção em Micro** - *Conder* ✔️
-- [x] **Informática Básica** - *Conder* ✔️
-- [x] **Gerenciamento de Micro-Empresas** - *Conder* ✔️
-- [x] **Python** - *Curso em Vídeo* ✔️ *[Mundo 1, 2 e 3]*
-- [x] **Técnico em Administração** - *Governo* ✔️ [4 Meses *Desistente*]
-- [x] **Operador de Máquinas Pesadas** - *Governo* ✔️
-- [x] **C#** - *CFB Cursos* ✔️
-- [x] **Git & GitHub** - *Curso em Vídeo* ✔️
-- [ ] **SQL** - *CFB Cursos* 
-- [ ] **MYSQL** - *Curso em Vídeo* 
-- [ ] **C# Avançado** - *Q Cursos* 
-- [ ] **C# BackEnd** - *Q Cursos* 
-- [ ] **C# Algoritmo** - *Tarso Coelho* 
-- [ ] **C# Controle Financeiro** - *Hugo Cursos* 
-- [ ] **C# Controle Hosteleiro** - *Hugo Cursos* 
-- [ ] **C# Criação de Programa** - *Codificados* 
-- [ ] **C# Criação de Sistemas** - *Hugo Cursos* 
-- [ ] **C# Desenvolvimento de Sistemas** - *San Giorgio* 
-- [ ] **C# Desenvolvimento de Sistemas** - *Cursos de Programação* 
-- [ ] **C# Desenvolvimento de Sistemas** - *San Giorgio* 
-- [ ] **C# Desenvolvimento de Sistemas** - *Zatec Cursos* 
-- [ ] **C# Entity FrameWork** - *Q Cursos* 
-- [ ] **C# FrontEnd** [*Hosteleiro*] - *Q Cursos* 
-- [ ] **C# Login & DataBase** - *San Giorgio* 
-- [ ] **C# Sistema de Vendas com SQL** - *Hugo Cursos* 
-- [ ] **C# Sistema Financeiro Access** - *Hugo Cursos* 
-- [ ] **C# Cursos Diversos** [*Pasta Com 8 Aulas Aleatórias*] 
+- [x] **Culinária** ["Reaproveitamento" de Comidas] - *Conder* +720 Minutos ✔️
+- [x] **Inglês Básico** - *On-line* +120 Minutos ✔️
+- [x] **Técnico de Manutenção em Micro** - *Conder* +7200 Minutos ✔️
+- [x] **Informática Básica** - *Conder* +7200 Minutos ✔️
+- [x] **Gerenciamento de Micro-Empresas** - *Conder* +1800 Minutos ✔️
+- [x] **Python** - *Curso em Vídeo* +7200 Minutos ✔️ *[Mundo 1, 2 e 3]*
+- [x] **Técnico em Administração** - *Governo* +10.800 Minutos ✔️ [4 Meses *Desistente*]
+- [x] **Operador de Máquinas Pesadas** - *Governo* +2400 Minutos ✔️
+- [x] **C#** - *CFB Cursos* +2023 Minutos ✔️
+- [x] **Git & GitHub** - *Curso em Vídeo* +240 Minutos ✔️
+- [ ] **SQL + MYSQL** - *CFB Cursos* +509 Minutos
+- [ ] **MYSQL** - *Curso em Vídeo* +2400 Minutos
+- [ ] **C# Avançado** - *Q Cursos* +95 Minutos
+- [ ] **C# BackEnd** - *Q Cursos* +55 Minutos
+- [ ] **C# Algoritmo** - *Tarso Coelho* +239 Minutos
+- [ ] **C# Controle Financeiro** - *Hugo Cursos* +57 Minutos
+- [ ] **C# Controle Hosteleiro** - *Hugo Cursos* +56 Minutos
+- [ ] **C# Criação de Programa** - *Codificados* +85 Minutos
+- [ ] **C# Criação de Sistemas** - *Hugo Cursos* +319 Minutos
+- [ ] **C# Desenvolvimento de Sistemas** - *San Giorgio* +426 Minutos
+- [ ] **C# Desenvolvimento de Sistemas** - *Cursos de Programação* +416 Minutos
+- [ ] **C# Desenvolvimento de Sistemas** - *San Giorgio* +236 Minutos
+- [ ] **C# Desenvolvimento de Sistemas** - *Zatec Cursos* +941 Minutos
+- [ ] **C# Entity FrameWork** - *Q Cursos* +55 Minutos
+- [ ] **C# FrontEnd** [*Hosteleiro*] - *Q Cursos* +176 Minutos
+- [ ] **C# Login & DataBase** - *San Giorgio* +33 Minutos
+- [ ] **C# Sistema de Vendas com SQL** - *Hugo Cursos* +125 Minutos
+- [ ] **C# Sistema Financeiro Access** - *Hugo Cursos* +34 Minutos
+- [ ] **C# Cursos Diversos** [*Pasta Com 8 Aulas Aleatórias*] +30 Minutos
 
 #### 💻 **Redes Sociais**
 - [YouTube] (https://www.youtube.com/@Coutias)
