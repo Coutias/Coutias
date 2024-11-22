@@ -33,6 +33,16 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
   - ( *Conserto de PCs e notebooks, até de olhos fechados* )
 - **Criação de servidores FiveM**
   - ( *Gastei umas boas noites de sono nisso* )
+ 
+#### 📚 **LIVROS/E-BOOK'S**:
+- [] **A LEI DA ATRAÇÃO** - **Michael Losier**
+- [] **DEIXE DE SER POBRE** - **Primo Pobre**
+- [] **O SEGREDO** - **Rhonda Byrne**
+- [] **OS CÓDIGOS DO MILHÃO** - **Pablo Marçal**
+- [] **OS SEGREDOS DA MENTE MILIONÁRIA** - **T. Harv Eker**
+- [] **PAI RICO, PAI POBRE** - **Robert T. Kiyosaki**
+- [] **PONTO DE INFLEXÃO** - **Flávio Augusto da Silva**
+- [] **QUEM PENSA ENRIQUECE** - **Napoleon Hill**
 
 #### 🏆 **Cursos/Treinamentos**:
 - [x] **Culinária** ["Reaproveitamento" de Comidas] - *Conder* +720 Minutos ✔️
