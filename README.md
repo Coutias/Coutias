@@ -46,6 +46,8 @@ Finalizei meu primeiro curso no **CFB Cursos** (só faltam mais uns 22 cursos! �
 - [x] **C#** - *CFB Cursos* +2023 Minutos ✔️
 - [x] **Git & GitHub** - *Curso em Vídeo* +240 Minutos ✔️
 - [x] **PHPMYADMIN** - *"Auto-didatismo"* ✔️
+- [x] **Cadastro de Clientes** - *ECTurbo (Edivam Cabral)* ✔️
+- [x] **Hiper Persuasão** - El Professor✔️
 - [x] **C# Avançado** - *Q Cursos* +95 Minutos ✔️ [Incompleto Pelo Criador]
 - [ ] **C# BackEnd** - *Q Cursos* +55 Minutos
 - [ ] **C# Algoritmo** - *Tarso Coelho* +239 Minutos
